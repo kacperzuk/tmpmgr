@@ -1,0 +1,17 @@
+*.aux
+*.log
+*.run.xml
+*.toc
+*.bbl
+*.blg
+*-blx.bib
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+.*.swp
+todo
+*.lof
